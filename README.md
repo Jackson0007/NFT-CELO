@@ -10,5 +10,4 @@ This project uses the following tech stack:
 - [Bootstrap](https://getbootstrap.com/) - A CSS framework that provides responsive, mobile-first layouts.
 
 ## 2. Final product
-
-![Screenshot 2022-04-06 at 17 28 49](https://user-images.githubusercontent.com/22290070/162085395-8817ec39-c494-40e9-891e-6e06544720b8.png)
+(https://kharioki.github.io/fullstack-celo-nft/)
